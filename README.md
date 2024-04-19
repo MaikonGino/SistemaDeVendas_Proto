@@ -3,6 +3,12 @@
 Este é um sistema desenvolvido em Excel para ajudar no controle de vendas, métodos de pagamento e valores devidos por cliente.
 Ele é útil para pequenos negócios que desejam acompanhar suas vendas de forma organizada e eficiente.
 
+
+### Tecnologias Utilizadas:
+<div>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="125px">
+</div>
+
 ### Funcionalidades:
 
 - **Registro de Vendas:** Registra vendas feitas em dinheiro, cartão, Pix ou fiado.
